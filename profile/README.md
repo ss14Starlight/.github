@@ -32,8 +32,3 @@ a game about survival on a space station where there are constant confrontations
 🔍 [Server Monitoring](https://monitoring.starlight.network/)
 📄 [Documentation](https://docs.starlight.network/)
 ## Space-Station 14 Documentation/Wiki
-
-Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
-
-## Project Activity
-![Alt](https://repobeats.axiom.co/api/embed/675a7780b2c40805e5266935fe9329cd0177aba3.svg "Repobeats analytics image")

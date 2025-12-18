@@ -22,6 +22,12 @@ STARLIGHT is an open source project aimed at creating unique mechanics and a ple
 
 a game about survival on a space station where there are constant confrontations between the crew and antagonists created to prevent the crew from achieving their goals.
 
+⭐ [PATREON](https://www.patreon.com/Starlight14)
+📕 [WIKI](https://ss14-starlight.wiki/Main_Page)
+📒 [RULES](https://ss14-starlight.wiki/Server_rules_(Starlight))
+🌐 [WEBSITE](https://ss14-starlight.online/)
+🗺️ [MAP VIEWER](https://map.ss14-starlight.wiki/)
+
 ## Space-Station 14 Documentation/Wiki
 
 Space-Station 14 has [docs site](https://docs.spacestation14.io/) documentation on SS14s content, engine, game design and more. We also have lots of resources for new contributors to the project.
